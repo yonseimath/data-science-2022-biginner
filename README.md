@@ -1,1 +1,0 @@
-# data-science-2022-biginner
