@@ -128,8 +128,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 
 # file 
+=======
+# 
+>>>>>>> origin/feature/uiyong
 *.csv
 *.txt
 *.json
