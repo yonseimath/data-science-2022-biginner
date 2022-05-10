@@ -10,6 +10,7 @@
 [![Metrics](https://github.com/ynkim0/ynkim0/blob/main/github-metrics-ynkim0.svg)](https://github.com/ynkim0)
 
 ### ![고명석](https://avatars.githubusercontent.com/u/100071667?s=32&v=4) [고명석](https://github.com/mgskko) - https://mgskko.github.io/
+[![Metrics](https://github.com/mgskko/mgskko/blob/main/github-metrics-mgskko.svg)](https://github.com/mgskko)
 
 ### ![박영현](https://avatars.githubusercontent.com/u/72022988?s=32&v=4) [박영현](https://github.com/yhp2205) - https://yhp2205.github.io/
 [![Metrics](https://github.com/yhp2205/yhp2205/blob/main/github-metrics-yhp2205.svg)](https://github.com/yhp2205)
