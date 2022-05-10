@@ -5,6 +5,8 @@
 
 
 ### ![최의용](https://avatars.githubusercontent.com/u/38911560?s=32&v=4) [최의용](https://github.com/Unfinishedgod) - https://unfinishedgod.netlify.app/
+[![Metrics](/github-metrics-uiyong.svg)](https://github.com/Unfinishedgod)
+
 
 ### ![김예나](https://avatars.githubusercontent.com/u/80688900?s=32&v=4) [김예나](https://github.com/ynkim0) - https://ynkim0.github.io/  
 [![Metrics](https://github.com/ynkim0/ynkim0/blob/main/github-metrics-ynkim0.svg)](https://github.com/ynkim0)
