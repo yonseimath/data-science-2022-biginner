@@ -15,7 +15,7 @@
 [![Metrics](https://github.com/yhp2205/yhp2205/blob/main/github-metrics-yhp2205.svg)](https://github.com/yhp2205)
 
 ### [이재혁](https://github.com/LeeJeaHyuk) - https://leejeahyuk.github.io/  
-[![Metrics](https://metrics.lecoq.io/LeeJeaHyuk?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FSeoul)](https://github.com/LeeJeaHyuk)
+[![Metrics](https://github.com/LeeJeaHyuk/LeeJeaHyuk/blob/main/github-metrics-LeejeaHyuk.svg)](https://github.com/LeeJeaHyuk)
 
 ### ![하지민](https://avatars.githubusercontent.com/u/78456921?s=32&v=4) [하지민](https://github.com/6058ah) - https://6058ah.tistory.com
 
